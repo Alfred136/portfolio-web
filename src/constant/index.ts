@@ -16,7 +16,7 @@ export const projects: Array<IProject> = [
       "An Ecommerce store where users can add items to cart and checkout using Stripe payment. This project uses Sanity for backend and react-query for data-fetching. Reponsive UI supporting desktop, tablet and mobile devices.",
     imageURL: "/flamingo.png",
     github: "https://github.com/Alfred136/project-ecommerce-web",
-    link: "https://project-ecommerce-web.vercel.app/",
+    link: "https://flamingo-ecommerce.vercel.app/",
     stack: ["nextjs", "sanity", "tailwindcss", "stripe"],
   },
   {

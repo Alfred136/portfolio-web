@@ -23,9 +23,9 @@ export default function About() {
               <span className="font-bold text-primary">
                 HTML, CSS, JS, React and Flutter.
               </span>{" "}
-              I love seeking new experience and opportunities. Picking up new
-              skills is not a problem for me. Feel free to contact me if you
-              think I am a good fit to work with.
+              I love learning new skills and exploring different possibilities.
+              I also welcome new opportunities and challenges. Feel free to
+              contact me for jobs/ projects if you think I am a good fit!
             </p>
             <p>
               Thanks for checking me out. Have a nice day.😎 Life is good,
