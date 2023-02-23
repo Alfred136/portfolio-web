@@ -35,8 +35,8 @@ export const projects: Array<IProject> = [
     details:
       "The site you are visiting now. I believe a simple and clean UI can better direct focuses on the projects.",
     imageURL: "/portfolio.png",
-    github: "https://github.com/Alfred136/project-spli3e-web",
-    link: "https://spli3e.alfredwebdev.com/",
+    github: "https://github.com/Alfred136/portfolio-web",
+    link: "/",
     stack: ["nextjs", "tailwindcss", "typescript"],
   },
 ];
