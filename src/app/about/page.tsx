@@ -13,24 +13,21 @@ export default function About() {
           <h1 className={`${styles.heading}`}>👋🏼 Nice to meet you</h1>
           <div className="flex flex-col gap-8 text-[16px] xs:text-[18px] md:text-[20px] max-w-[600px] mt-10">
             <p>
-              Since graduated in 2022, I&#39;ve been doing web/mobile
-              applications development. While having full-stack experiences, my
-              focus is to deliver high-quality UI to users with my front-end
-              skills.
+              I graduated in 2022 with a Computer Science degree. Being
+              passionate about web/mobile/game development, I am seeking to join
+              a team where people share the same passion and grow together.
             </p>
             <p>
-              My key weapons are{" "}
+              My key weapon is{" "}
               <span className="font-bold text-primary">
-                HTML, CSS, JS, React and Flutter.
+                the willingness to listen to and work with people.
               </span>{" "}
               I love learning new skills and exploring different possibilities.
-              I also welcome new opportunities and challenges. Feel free to
-              contact me for jobs/ projects if you think I am a good fit!
+              Recently I am planning to visit Toronto and develop my career
+              here. Feel free to contact me for jobs if you think I am a good
+              fit and can add value to your team and company!
             </p>
-            <p>
-              Thanks for checking me out. Have a nice day.😎 Life is good,
-              cheers!
-            </p>
+            <p>Thanks for checking me out and have a nice day!😎</p>
           </div>
         </div>
 

@@ -12,10 +12,9 @@ export default function Home() {
           👋🏼 Hi, I&#39;m
           <span className="text-primary"> Alfred</span>
         </h1>
-        <p className="max-w-[900px] text-[18px] xs:text-[24px] md:text-[30px] font-code mt-1">
-          A front-end developer who loves building responsive{" "}
-          <span className="text-lighter">web/mobile</span> applications. Check
-          out my recent{" "}
+        <p className="max-w-[950px] text-[18px] xs:text-[24px] md:text-[30px] font-code mt-1">
+          A software developer who are learning how to build responsive
+          websites. Check out my recent{" "}
           <ScrollLink to="recent" offset={-100}>
             <span className="text-lighter hover:text-primary hover:cursor-pointer">
               side-projects

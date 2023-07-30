@@ -51,14 +51,16 @@ export const skills: ISkill[] = [
   { id: "css", name: "CSS" },
   { id: "javascript", name: "JavaScript" },
   { id: "typescript", name: "TypeScript" },
+  { id: "c#", name: "C#" },
+  { id: "sql", name: "SQL" },
   { id: "react", name: "React.js" },
-  { id: "nextjs", name: "Next.js" },
+  { id: "next", name: "Next.js" },
   { id: "flutter", name: "Flutter" },
-  { id: "tailwind-css", name: "Tailwindcss" },
   { id: "mySQL", name: "MySQL" },
+  { id: "dynamoDB", name: "DynamoDB" },
   { id: "git", name: "Git" },
   { id: "gitHub", name: "GitHub" },
-]
+];
 
 interface IContact {
   id: string;
@@ -82,4 +84,4 @@ export const contacts: IContact[] = [
     name: "Github",
     link: "https://github.com/Alfred136",
   },
-]
+];
